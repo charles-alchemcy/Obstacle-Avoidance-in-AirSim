@@ -6,6 +6,7 @@ This repository contains Python scripts showing how you can use [Microsoft AirSi
 
 ## Prerequisites
 
+
 - [Recommended hardware](https://wiki.unrealengine.com/Recommended_Hardware) for running UnrealEngine4, required for AirSim. Although it is possible build AirSim on OS X and Linux, we found it easiest to use the pre-compiled Windows binaries.
 - This map we show aboved is a simple demo,which was built on Block.
 - [Python3](https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe) for 64-bit Windows

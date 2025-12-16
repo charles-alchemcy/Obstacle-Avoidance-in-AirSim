@@ -24,6 +24,7 @@ MAX_EPISODE = 20000
 DEPTH_IMAGE_WIDTH = 256
 DEPTH_IMAGE_HEIGHT = 144
 
+
 TAU = 0.001  # Rate to update target network toward primary network
 flatten_len = 9216  # the input shape before full connect layer
 NumBufferFrames = 4  # take the latest 4 frames as input
